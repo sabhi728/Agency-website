@@ -26,7 +26,7 @@ export default function Logo({ width = 220, height = 50, className = "" }: LogoP
       <path d="M22 18L18 25H24L20 32" stroke="#673ee5" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
 
       {/* RechargeZy Text - Using text element for better readability */}
-      <text x="60" y="35" fontSize="24" fontWeight="bold" fontFamily="Arial, sans-serif" fill="#673ee5">
+      <text x="60" y="35" fontSize="22" fontWeight="bold" fontFamily="Arial, sans-serif" fill="#673ee5">
         Agency Website
       </text>
     </svg>

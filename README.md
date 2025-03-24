@@ -36,9 +36,7 @@ Welcome to our Agency Website! This project showcases our professional services 
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
+- Next.js
 - React.js
 - Node.js
 - Express.js

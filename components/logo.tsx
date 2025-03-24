@@ -4,7 +4,7 @@ interface LogoProps {
   className?: string
 }
 
-export default function Logo({ width = 200, height = 50, className = "" }: LogoProps) {
+export default function Logo({ width = 220, height = 50, className = "" }: LogoProps) {
   return (
     <svg
       width={width}

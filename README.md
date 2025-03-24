@@ -36,11 +36,13 @@ Welcome to our Agency Website! This project showcases our professional services 
 
 ## 🛠️ Tech Stack
 
-- Next.js
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+- Frontend: Next.js, React.js, TypeScript
+
+- Backend: Node.js, Express.js
+
+- Styling: Tailwind CSS / Styled Components 
+
+- Authentication: JWT / OAuth 
 
 ## 🚀 Getting Started
 

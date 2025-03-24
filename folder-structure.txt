@@ -1,0 +1,10 @@
+app/
+├── about/
+│   └── page.tsx
+├── why-choose-us/
+│   └── page.tsx
+├── safety/
+│   └── page.tsx
+├── page.tsx
+└── layout.tsx
+

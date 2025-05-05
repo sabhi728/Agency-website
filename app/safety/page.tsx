@@ -52,7 +52,7 @@ export default function Page() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5 }}
             >
-              Safety First at RechargeZy
+              Safety First
             </motion.h1>
             <motion.p
               className="text-xl text-gray-600 text-center mb-12 max-w-3xl mx-auto"
@@ -60,7 +60,7 @@ export default function Page() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.2 }}
             >
-              At RechargeZy, we prioritize the security of your data and transactions above all else. Our comprehensive
+              At , we prioritize the security of your data and transactions above all else. Our comprehensive
               security measures ensure that you can use our platform with complete peace of mind.
             </motion.p>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -87,7 +87,7 @@ export default function Page() {
             <h2 className="text-3xl font-bold text-center mb-8">Our Commitment to Your Safety</h2>
             <div className="max-w-3xl mx-auto">
               <p className="text-gray-600 mb-6">
-                RechargeZy is committed to maintaining the highest standards of security in the industry. We
+               is committed to maintaining the highest standards of security in the industry. We
                 continuously invest in cutting-edge technologies and best practices to ensure that your personal and
                 financial information remains protected at all times.
               </p>

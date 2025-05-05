@@ -6,8 +6,8 @@ import type { Metadata } from "next"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "RechargeZy",
-  description: "Recharge and pay bills with ease",
+  title: "agency",
+  description: "",
   icons: [
     {
       rel: "icon",
